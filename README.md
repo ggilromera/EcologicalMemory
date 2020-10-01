@@ -1,2 +1,1 @@
-# EcologicalMemory
-Supplementary materials of the ecological memory paper
+test for Ecological Memory - final repository is here https://github.com/ggilromera/EcologicalMemory-1
